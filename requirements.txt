@@ -1,0 +1,8 @@
+python-dateutil
+numpy
+opencv-python
+pillow
+pyzbar
+ultralytics>=8.0.100
+albumentations
+tqdm
